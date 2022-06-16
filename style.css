@@ -19,6 +19,8 @@ header {
   color: yellow;
   font-family:'Times New Roman', Times, serif;
   padding: 10px;
+  border: 5px double lightgray;
+
 }
 
 h1 {
@@ -26,7 +28,7 @@ h1 {
 }
 
 h1,h3,header {
-  background-color: #0600b0;
+  background-color: black;
 }
 
 footer {
